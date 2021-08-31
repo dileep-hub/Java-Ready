@@ -12,3 +12,13 @@ class Solution {
         return res;
     }
 }
+
+//output
+// Your input
+// [["phone","blue","pixel"],["computer","silver","lenovo"],["phone","gold","iphone"]]
+// "color"
+// "silver"
+// Output
+// 1
+// Expected
+// 1
